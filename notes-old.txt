@@ -1,2 +1,0 @@
-old ideas, ignore
-- maybe add login?
